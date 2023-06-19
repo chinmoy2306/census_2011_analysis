@@ -12,11 +12,11 @@ The dataset used for this analysis consists of the following files:
 6. `district.csv`: This file contains the distinct district names w.r.t each states.
 ## Project Structure
 This repository is structured as follows:
-•	Raw dataset files: 
-o	`PopByCity-Census2011.csv`
-o	`PopByDistrict-Census2011.csv`
-o	`PopByState-Census2011.csv`
-o	`state`
+- Raw dataset files: 
+1) `PopByCity-Census2011.csv`
+2) `PopByDistrict-Census2011.csv`
+3) `PopByState-Census2011.csv`
+4) `state`
 o	`district`
 o	`city`
 •	census_2011_analysis.sql: 
