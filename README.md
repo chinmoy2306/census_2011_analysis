@@ -1,4 +1,4 @@
-# Project 1: Indian Population Census Analysis (2011)
+# Project: Indian Population Census Analysis (2011)
 ## Overview
 1. This repository showcases my data analysis project performed using MySQL on the Indian Population Census dataset of 2011. 
 2. The dataset was obtained from “www.census2011.co.in” using web-scrapping with the help of power query and provides a comprehensive overview of the Indian population across various states and demographic factors.
@@ -12,17 +12,18 @@ The dataset used for this analysis consists of the following files:
 - `district.csv`: This file contains the distinct district names w.r.t each states.
 ## Project Structure
 This repository is structured as follows:
+- Readme file: `README.md`
 - Raw dataset files: 
-1. `PopByCity-Census2011.csv`
-2. `PopByDistrict-Census2011.csv`
-3. `PopByState-Census2011.csv`
-4. `state`
-5. `district`
-6. `city`
-7. `census_2011_analysis.sql`: 
-  - This SQL script contains the queries used for data analysis on the 2011 Census dataset. 
-  - The queries cover various aspects, such as population distribution by state, district, gender and more.
-  - Feel free to explore the `census_2011_analysis.sql` file to view the specific queries used in this analysis.
+  1. `PopByCity-Census2011.csv`
+  2. `PopByDistrict-Census2011.csv`
+  3. `PopByState-Census2011.csv`
+  4. `state`
+  5. `district`
+  6. `city`
+- SQL script file `census_2011_analysis.sql`: 
+	- This SQL script contains the queries used for data analysis on the 2011 Census dataset. 
+	- The queries cover various aspects, such as population distribution by state, district, gender and more.
+	- Feel free to explore the `census_2011_analysis.sql` file to view the specific queries used in this analysis.
 ## Usage
 To reproduce the analysis or explore the dataset and code further, please follow these steps:
 1.	Clone the repository:
