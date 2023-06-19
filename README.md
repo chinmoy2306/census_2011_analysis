@@ -19,10 +19,10 @@ This repository is structured as follows:
 4. `state`
 5. `district`
 6. `city`
-7. census_2011_analysis.sql: 
-- This SQL script contains the queries used for data analysis on the 2011 Census dataset. 
-- The queries cover various aspects, such as population distribution by state, district, gender and more.
-- Feel free to explore the `census_2011_analysis.sql` file to view the specific queries used in this analysis.
+7. `census_2011_analysis.sql`: 
+  - This SQL script contains the queries used for data analysis on the 2011 Census dataset. 
+  - The queries cover various aspects, such as population distribution by state, district, gender and more.
+  - Feel free to explore the `census_2011_analysis.sql` file to view the specific queries used in this analysis.
 ## Usage
 To reproduce the analysis or explore the dataset and code further, please follow these steps:
 1.	Clone the repository:
