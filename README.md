@@ -12,15 +12,15 @@ The dataset used for this analysis consists of the following files:
 - `district.csv`: This file contains the distinct district names w.r.t each states.
 ## Project Structure
 This repository is structured as follows:
-- Readme file: `README.md`
+- Readme file: [`README.md`](https://github.com/chinmoy2306/census_2011_analysis/blob/1178df6a465bb5a2bcf99ef64026c29619c5f201/README.md)
 - Raw dataset files: 
-  1. `PopByCity-Census2011.csv`
-  2. `PopByDistrict-Census2011.csv`
-  3. `PopByState-Census2011.csv`
-  4. `state`
-  5. `district`
-  6. `city`
-- SQL script file `census_2011_analysis.sql`: 
+  1. [`PopByCity-Census2011.csv`](https://github.com/chinmoy2306/census_2011_analysis/blob/1178df6a465bb5a2bcf99ef64026c29619c5f201/PopByCity-Census2011.csv)
+  2. [`PopByDistrict-Census2011.csv`](https://github.com/chinmoy2306/census_2011_analysis/blob/1178df6a465bb5a2bcf99ef64026c29619c5f201/PopByDistrict-Census2011.csv)
+  3. [`PopByState-Census2011.csv`](https://github.com/chinmoy2306/census_2011_analysis/blob/1178df6a465bb5a2bcf99ef64026c29619c5f201/PopByState-Census2011.csv)
+  4. [`state`](https://github.com/chinmoy2306/census_2011_analysis/blob/1178df6a465bb5a2bcf99ef64026c29619c5f201/State.csv)
+  5. [`district`](https://github.com/chinmoy2306/census_2011_analysis/blob/1178df6a465bb5a2bcf99ef64026c29619c5f201/District.csv)
+  6. [`city`](https://github.com/chinmoy2306/census_2011_analysis/blob/1178df6a465bb5a2bcf99ef64026c29619c5f201/City.csv)
+- SQL script file [`census_2011_analysis.sql`](https://github.com/chinmoy2306/census_2011_analysis/blob/1178df6a465bb5a2bcf99ef64026c29619c5f201/census_2011_analysis.sql): 
 	- This SQL script contains the queries used for data analysis on the 2011 Census dataset. 
 	- The queries cover various aspects, such as population distribution by state, district, gender and more.
 	- Feel free to explore the `census_2011_analysis.sql` file to view the specific queries used in this analysis.
