@@ -20,9 +20,9 @@ This repository is structured as follows:
 5. `district`
 6. `city`
 7. census_2011_analysis.sql: 
--- This SQL script contains the queries used for data analysis on the 2011 Census dataset. 
--- The queries cover various aspects, such as population distribution by state, district, gender and more.
-Feel free to explore the `census_2011_analysis.sql` file to view the specific queries used in this analysis.
+- This SQL script contains the queries used for data analysis on the 2011 Census dataset. 
+- The queries cover various aspects, such as population distribution by state, district, gender and more.
+- Feel free to explore the `census_2011_analysis.sql` file to view the specific queries used in this analysis.
 ## Usage
 To reproduce the analysis or explore the dataset and code further, please follow these steps:
 1.	Clone the repository:
@@ -32,7 +32,7 @@ git clone https://github.com/your-username/your-repository.git
 4.	Execute the SQL queries from the `census_2011_analysis.sql` file in your MySQL environment to perform the analysis.
 ## Dependencies
 The following dependencies are required to run the `census_2011_analysis.sql` file:
-•	MySQL server and client
+- MySQL server and client
 ## License
 The dataset used in this project is sourced from “https://www.census2011.co.in” and is subject to the licensing terms provided by the dataset author.
 
