@@ -27,7 +27,7 @@ This repository is structured as follows:
 ## Usage
 To reproduce the analysis or explore the dataset and code further, please follow these steps:
 1.	Clone the repository:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/chinmoy2306/census_2011_analysis.git
 2.	Navigate to the project directory.
 3.	Set up a MySQL environment and import the csv files into the database.
 4.	Execute the SQL queries from the `census_2011_analysis.sql` file in your MySQL environment to perform the analysis.
